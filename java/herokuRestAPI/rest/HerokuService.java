@@ -2,9 +2,7 @@ package herokuRestAPI.rest;
 
 import java.util.List;
 
-import herokuRestAPI.models.Trip;
-import herokuRestAPI.models.TripSegment;
-import herokuRestAPI.models.User;
+import herokuRestAPI.models.*;
 import retrofit.Call;
 import retrofit.http.GET;
 import retrofit.http.Query;
