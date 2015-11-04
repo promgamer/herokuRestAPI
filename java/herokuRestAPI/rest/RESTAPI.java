@@ -1,15 +1,11 @@
-package rest;
+package herokuRestAPI.rest;
 
-import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
 import java.io.IOException;
-import java.util.Collection;
 import java.util.List;
 
-import models.Trip;
-import models.TripSegment;
-import models.User;
+import herokuRestAPI.models.*;
 import retrofit.GsonConverterFactory;
 import retrofit.Response;
 import retrofit.Retrofit;

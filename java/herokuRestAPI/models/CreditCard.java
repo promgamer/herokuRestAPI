@@ -1,4 +1,4 @@
-package models;
+package herokuRestAPI.models;
 
 import java.util.Date;
 

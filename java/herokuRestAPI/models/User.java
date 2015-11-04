@@ -1,4 +1,4 @@
-package models;
+package herokuRestAPI.models;
 
 /**
  * Created by Miguel on 23/10/2015.

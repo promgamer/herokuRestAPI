@@ -1,6 +1,5 @@
-package models;
+package herokuRestAPI.models;
 
-import java.sql.Timestamp;
 import java.util.Date;
 
 /**
